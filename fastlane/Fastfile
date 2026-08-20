@@ -61,7 +61,7 @@ platform :ios do
         "com.#{TEAMID_SUFFIX}.loopkit.Loop.LoopWatch.watchkitextension", 
         "com.#{TEAMID_SUFFIX}.loopkit.Loop.LoopWatch", 
         "com.#{TEAMID_SUFFIX}.loopkit.Loop.Loop-Intent-Extension",
-        "com.#{TEATEAMID_SUFFIXMID}.loopkit.Loop.LoopWidgetExtension"
+        "com.#{TEAMID_SUFFIX}.loopkit.Loop.LoopWidgetExtension"
       ]
     )
 
